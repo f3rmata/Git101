@@ -14,7 +14,7 @@ SAST 软研部运维组 夏文哲
 2024.10.07
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub" title="Open in GitHub"
+  <a href="https://github.com/f3rmata/Git101.git" target="_blank" alt="GitHub" title="Open in GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -207,7 +207,7 @@ usage: git rm [-f | --force] [-n] [-r] [--cached] [--ignore-unmatch]
 git add file.txt
 ```
 
-![git add](/images/git-sim-add_10-05-24_16-33-14.jpg)  
+![git add](/images/git-sim-add_10-05-24_16-33-14.jpg)
 
 ---
 
@@ -219,7 +219,7 @@ git commit -m "Added file.txt"
 
 **提问Time！** 请问我这次commit提交的modified.txt文件的内容是什么时候的?
 
-![git commit](/images/git-sim-commit_10-05-24_16-35-11.jpg)  
+![git commit](/images/git-sim-commit_10-05-24_16-35-11.jpg)
 
 ---
 layout: quote
@@ -339,7 +339,7 @@ git merge dev
 这是文件合并时遇到冲突时的样子，请不要害怕。  
 这并不意味着我们的文件损坏了，他只是标记了我们需要手动解决冲突的位置。
 
-```text
+```diff
  here is some content not affected by the conflict
 ⠀<<<<<<< master
  this is conflicted text from master

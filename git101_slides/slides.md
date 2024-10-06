@@ -524,6 +524,19 @@ GitHub 是一个基于 Git 的版本控制和协作平台，它允许用户托�
 - Step 5. 等到作者认为合适之后，会将你的修改合并到主项目中，于是你就成功参与了一个开源项目啦！！
 
 ---
+
+# 杂项
+
+支持一下吧 🥺🥺🥺
+
+<img
+class="absolute left-100px bottom-100px"
+src="/images/share.png"
+alt=""
+width="250"
+/>
+
+---
 layout: intro
 ---
 
